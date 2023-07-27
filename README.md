@@ -1,2 +1,2 @@
-# telescope
-Software to control several aspects of a telescope
+# telescope_automate
+Plans and software for telescope auto tracking, auto guiding, and autofocus.
